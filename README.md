@@ -1,2 +1,2 @@
 # JAVA-GUI
-made for college OE Java
+made for college Open Elective Java
